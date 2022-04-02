@@ -1,0 +1,5 @@
+1.Di game utama,ketika muncul 6-14        , layar pemilihan fitur game akan diaktifkan
+(seperti yang ditunjukkan di bawah).     
+2.ketika muncul 15         ,akan langsung masuk je 8 Free Spin.
+3.Jumlah handiah yang ditunjukkan                        akan dikalikan dan dihitung setelah 
+   Free Spin berakhir

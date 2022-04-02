@@ -1,0 +1,4 @@
+1.Setiap kali             muncul dapat memicu permainan jackpot
+2.Dalam permainan JACKPOT,ketika tiga simbol yang sama muncnl hadiah JACK-POT
+   yang sesuai akan dimenangkan dan permainan JACKPOT akan berakhir
+3.Hadiah yang didapatkan ditentukan oleh jumlah jackpot
